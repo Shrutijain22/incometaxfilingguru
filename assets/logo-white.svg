@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 60" width="320" height="60">
+  <!-- Icon Group -->
+  <g transform="translate(6, 6) scale(0.48)">
+    <!-- Outer 'G' Navy Arc (Converted to White) -->
+    <path d="M 76.2,31.6 A 32,32 0 1,0 76.2,68.4 L 76.2,52" fill="none" stroke="#ffffff" stroke-width="9" stroke-linecap="round" stroke-linejoin="round" />
+    <!-- Inner 'C' Navy Arc (Converted to White) -->
+    <path d="M 64.1,35.9 A 20,20 0 1,0 64.1,64.1" fill="none" stroke="#ffffff" stroke-width="8" stroke-linecap="round" />
+    <!-- Gold Checkmark Arrow (Preserved Gold) -->
+    <path d="M 32,50 L 45,63 L 72,36" fill="none" stroke="#f5ba41" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" />
+    <!-- Gold Arrowhead (Preserved Gold) -->
+    <polygon points="80,28 62,32 76,46" fill="#f5ba41" />
+  </g>
+  <!-- Text (Converted to White) -->
+  <text x="68" y="38" font-family="'Poppins', sans-serif" font-weight="700" font-size="20" fill="#ffffff">Income Tax Filing Guru</text>
+</svg>
