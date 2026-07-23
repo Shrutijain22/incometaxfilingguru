@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://incometaxfilingguru.com.au/sitemap.xml
